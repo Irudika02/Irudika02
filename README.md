@@ -1,4 +1,4 @@
-[!MasterHead](https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif)]
+
 <h1 align="center">Hi 👋, I'm Irudika Wijenayake</h1>
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
